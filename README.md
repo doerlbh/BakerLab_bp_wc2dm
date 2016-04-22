@@ -2,4 +2,4 @@
 
 to create DM bp file from WC bp file
 
-by Baihan Lin, Baker Lab, Oct 2015
+by Baihan Lin, Baker Lab, Dec 2015
