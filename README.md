@@ -1,5 +1,5 @@
 # BakerLab_bp_wc2dm
 
-to create DM bp file from WC bp file
+Purpose: to create protein dimer bp file from whole complex bp file
 
 by Baihan Lin, Baker Lab, Dec 2015
